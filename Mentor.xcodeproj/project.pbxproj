@@ -7,23 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D426CB951ECDDC040064EE24 /* BookingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D426CB941ECDDC040064EE24 /* BookingVC.swift */; };
+		D4728CB81ECF79B4005476A8 /* ScheduleVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4728CB71ECF79B4005476A8 /* ScheduleVC.swift */; };
+		D4729F5F1ECE215E00079ABD /* ConfirmVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4729F5E1ECE215E00079ABD /* ConfirmVC.swift */; };
+		D4729F631ECE539D00079ABD /* LoginMentorVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4729F621ECE539D00079ABD /* LoginMentorVC.swift */; };
+		D4729F651ECE543C00079ABD /* ProfileMentorVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4729F641ECE543C00079ABD /* ProfileMentorVC.swift */; };
+		D4729F671ECE80D600079ABD /* PendingRequestVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4729F661ECE80D600079ABD /* PendingRequestVC.swift */; };
+		D4729F6A1ECE850000079ABD /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4729F691ECE850000079ABD /* Student.swift */; };
+		D4729F6C1ECE873800079ABD /* CellPendingDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4729F6B1ECE873800079ABD /* CellPendingDetails.swift */; };
+		D4729F6E1ECE94AC00079ABD /* CongratsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4729F6D1ECE94AC00079ABD /* CongratsVC.swift */; };
+		D4729F721ECEA05B00079ABD /* ProfileStudentVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4729F711ECEA05B00079ABD /* ProfileStudentVC.swift */; };
+		D4729F771ECF24B100079ABD /* brush-script-mt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D4729F761ECF246400079ABD /* brush-script-mt.ttf */; };
+		D4729F791ECF297D00079ABD /* SelfStudyVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4729F781ECF297D00079ABD /* SelfStudyVC.swift */; };
 		D4CA51321ECD11DF0063ED60 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CA51311ECD11DF0063ED60 /* AppDelegate.swift */; };
-		D4CA51341ECD11DF0063ED60 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CA51331ECD11DF0063ED60 /* ViewController.swift */; };
+		D4CA51341ECD11DF0063ED60 /* MainVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CA51331ECD11DF0063ED60 /* MainVC.swift */; };
 		D4CA51371ECD11DF0063ED60 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4CA51351ECD11DF0063ED60 /* Main.storyboard */; };
 		D4CA513A1ECD11DF0063ED60 /* Mentor.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D4CA51381ECD11DF0063ED60 /* Mentor.xcdatamodeld */; };
 		D4CA513C1ECD11DF0063ED60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4CA513B1ECD11DF0063ED60 /* Assets.xcassets */; };
 		D4CA513F1ECD11DF0063ED60 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4CA513D1ECD11DF0063ED60 /* LaunchScreen.storyboard */; };
+		D4CA514A1ECD14150063ED60 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CA51491ECD14150063ED60 /* LoginVC.swift */; };
+		D4CA514C1ECD17580063ED60 /* SearchVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CA514B1ECD17580063ED60 /* SearchVC.swift */; };
+		D4CA514E1ECD1F200063ED60 /* CellDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CA514D1ECD1F200063ED60 /* CellDetails.swift */; };
+		D4CA51501ECD20E20063ED60 /* Mentor.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4CA514F1ECD20E20063ED60 /* Mentor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D426CB941ECDDC040064EE24 /* BookingVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookingVC.swift; sourceTree = "<group>"; };
+		D4728CB71ECF79B4005476A8 /* ScheduleVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScheduleVC.swift; sourceTree = "<group>"; };
+		D4729F5E1ECE215E00079ABD /* ConfirmVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConfirmVC.swift; sourceTree = "<group>"; };
+		D4729F621ECE539D00079ABD /* LoginMentorVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginMentorVC.swift; sourceTree = "<group>"; };
+		D4729F641ECE543C00079ABD /* ProfileMentorVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileMentorVC.swift; sourceTree = "<group>"; };
+		D4729F661ECE80D600079ABD /* PendingRequestVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PendingRequestVC.swift; sourceTree = "<group>"; };
+		D4729F691ECE850000079ABD /* Student.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
+		D4729F6B1ECE873800079ABD /* CellPendingDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CellPendingDetails.swift; sourceTree = "<group>"; };
+		D4729F6D1ECE94AC00079ABD /* CongratsVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CongratsVC.swift; sourceTree = "<group>"; };
+		D4729F711ECEA05B00079ABD /* ProfileStudentVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProfileStudentVC.swift; sourceTree = "<group>"; };
+		D4729F761ECF246400079ABD /* brush-script-mt.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "brush-script-mt.ttf"; sourceTree = "<group>"; };
+		D4729F781ECF297D00079ABD /* SelfStudyVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SelfStudyVC.swift; sourceTree = "<group>"; };
 		D4CA512E1ECD11DF0063ED60 /* Mentor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Mentor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4CA51311ECD11DF0063ED60 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D4CA51331ECD11DF0063ED60 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D4CA51331ECD11DF0063ED60 /* MainVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainVC.swift; sourceTree = "<group>"; };
 		D4CA51361ECD11DF0063ED60 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D4CA51391ECD11DF0063ED60 /* Mentor.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Mentor.xcdatamodel; sourceTree = "<group>"; };
 		D4CA513B1ECD11DF0063ED60 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4CA513E1ECD11DF0063ED60 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4CA51401ECD11DF0063ED60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4CA51491ECD14150063ED60 /* LoginVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		D4CA514B1ECD17580063ED60 /* SearchVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchVC.swift; sourceTree = "<group>"; };
+		D4CA514D1ECD1F200063ED60 /* CellDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CellDetails.swift; sourceTree = "<group>"; };
+		D4CA514F1ECD20E20063ED60 /* Mentor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mentor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +69,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D4729F751ECF240E00079ABD /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D4729F761ECF246400079ABD /* brush-script-mt.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		D4CA51251ECD11DF0063ED60 = {
 			isa = PBXGroup;
 			children = (
@@ -56,8 +96,11 @@
 		D4CA51301ECD11DF0063ED60 /* Mentor */ = {
 			isa = PBXGroup;
 			children = (
+				D4729F751ECF240E00079ABD /* Resources */,
+				D4CA51481ECD13D70063ED60 /* Model */,
+				D4CA51471ECD13D10063ED60 /* View */,
+				D4CA51461ECD13C80063ED60 /* Controller */,
 				D4CA51311ECD11DF0063ED60 /* AppDelegate.swift */,
-				D4CA51331ECD11DF0063ED60 /* ViewController.swift */,
 				D4CA51351ECD11DF0063ED60 /* Main.storyboard */,
 				D4CA513B1ECD11DF0063ED60 /* Assets.xcassets */,
 				D4CA513D1ECD11DF0063ED60 /* LaunchScreen.storyboard */,
@@ -65,6 +108,43 @@
 				D4CA51381ECD11DF0063ED60 /* Mentor.xcdatamodeld */,
 			);
 			path = Mentor;
+			sourceTree = "<group>";
+		};
+		D4CA51461ECD13C80063ED60 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				D4CA51331ECD11DF0063ED60 /* MainVC.swift */,
+				D4CA51491ECD14150063ED60 /* LoginVC.swift */,
+				D4CA514B1ECD17580063ED60 /* SearchVC.swift */,
+				D426CB941ECDDC040064EE24 /* BookingVC.swift */,
+				D4729F5E1ECE215E00079ABD /* ConfirmVC.swift */,
+				D4729F621ECE539D00079ABD /* LoginMentorVC.swift */,
+				D4729F641ECE543C00079ABD /* ProfileMentorVC.swift */,
+				D4729F661ECE80D600079ABD /* PendingRequestVC.swift */,
+				D4729F6D1ECE94AC00079ABD /* CongratsVC.swift */,
+				D4729F711ECEA05B00079ABD /* ProfileStudentVC.swift */,
+				D4729F781ECF297D00079ABD /* SelfStudyVC.swift */,
+				D4728CB71ECF79B4005476A8 /* ScheduleVC.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
+		D4CA51471ECD13D10063ED60 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				D4CA514D1ECD1F200063ED60 /* CellDetails.swift */,
+				D4729F6B1ECE873800079ABD /* CellPendingDetails.swift */,
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		D4CA51481ECD13D70063ED60 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D4CA514F1ECD20E20063ED60 /* Mentor.swift */,
+				D4729F691ECE850000079ABD /* Student.swift */,
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -99,6 +179,7 @@
 				TargetAttributes = {
 					D4CA512D1ECD11DF0063ED60 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 67ZU7VYLUP;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -129,6 +210,7 @@
 				D4CA513F1ECD11DF0063ED60 /* LaunchScreen.storyboard in Resources */,
 				D4CA513C1ECD11DF0063ED60 /* Assets.xcassets in Resources */,
 				D4CA51371ECD11DF0063ED60 /* Main.storyboard in Resources */,
+				D4729F771ECF24B100079ABD /* brush-script-mt.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,8 +221,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D4CA51341ECD11DF0063ED60 /* ViewController.swift in Sources */,
+				D4729F6E1ECE94AC00079ABD /* CongratsVC.swift in Sources */,
+				D4729F671ECE80D600079ABD /* PendingRequestVC.swift in Sources */,
+				D4729F721ECEA05B00079ABD /* ProfileStudentVC.swift in Sources */,
+				D4CA51341ECD11DF0063ED60 /* MainVC.swift in Sources */,
+				D4CA514C1ECD17580063ED60 /* SearchVC.swift in Sources */,
+				D4728CB81ECF79B4005476A8 /* ScheduleVC.swift in Sources */,
+				D4CA514E1ECD1F200063ED60 /* CellDetails.swift in Sources */,
+				D4729F5F1ECE215E00079ABD /* ConfirmVC.swift in Sources */,
+				D4729F651ECE543C00079ABD /* ProfileMentorVC.swift in Sources */,
+				D4729F6C1ECE873800079ABD /* CellPendingDetails.swift in Sources */,
+				D4729F791ECF297D00079ABD /* SelfStudyVC.swift in Sources */,
 				D4CA513A1ECD11DF0063ED60 /* Mentor.xcdatamodeld in Sources */,
+				D4729F6A1ECE850000079ABD /* Student.swift in Sources */,
+				D426CB951ECDDC040064EE24 /* BookingVC.swift in Sources */,
+				D4CA514A1ECD14150063ED60 /* LoginVC.swift in Sources */,
+				D4729F631ECE539D00079ABD /* LoginMentorVC.swift in Sources */,
+				D4CA51501ECD20E20063ED60 /* Mentor.swift in Sources */,
 				D4CA51321ECD11DF0063ED60 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -264,7 +361,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 67ZU7VYLUP;
 				INFOPLIST_FILE = Mentor/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Khoi-Hoang.Mentor";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -276,7 +375,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 67ZU7VYLUP;
 				INFOPLIST_FILE = Mentor/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Khoi-Hoang.Mentor";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -303,6 +404,7 @@
 				D4CA51451ECD11DF0063ED60 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

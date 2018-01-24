@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "02A5FA3094C7E9337811EF2E099590E4ADD91984",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8107B9AF15095539F03D8C7346C938B9E573ABDC" : 9223372036854775807,
+    "02A5FA3094C7E9337811EF2E099590E4ADD91984" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5EDCDAF5-EB84-480F-85C9-65244E1140C8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8107B9AF15095539F03D8C7346C938B9E573ABDC" : "",
+    "02A5FA3094C7E9337811EF2E099590E4ADD91984" : "Mentor\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Mentor",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Mentor.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hoanganhkhoil\/Mentor-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "02A5FA3094C7E9337811EF2E099590E4ADD91984"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/hoanganhkhoil\/Mentor-App.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8107B9AF15095539F03D8C7346C938B9E573ABDC"
+    }
+  ]
+}
